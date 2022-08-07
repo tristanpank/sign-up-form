@@ -142,3 +142,14 @@ input:focus {
     border-color: red;
     box-shadow: 0 1px 5px red;
 }
+
+.valid {
+    border: 1px solid green;
+}
+
+.valid:focus {
+    outline: none;
+    /* border-radius: 5px; */
+    border-color: green;
+    box-shadow: 0 1px 5px green;
+}
