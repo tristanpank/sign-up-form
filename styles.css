@@ -1,0 +1,11 @@
+body {
+    display: flex;
+    margin: 0;
+}
+
+
+.column1 {
+    background-image: url(./images/leaf-background.avif);
+    height: 100vh;
+    width: 40vw;
+}
